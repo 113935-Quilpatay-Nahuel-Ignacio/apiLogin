@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zix/FQsgWmEGgvs1h2t3haXSW9CrmqTjhTtXxCxtVag=",
+  "Source": "ApiLogin",
+  "BasePath": "_content/ApiLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
